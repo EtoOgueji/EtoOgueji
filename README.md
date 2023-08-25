@@ -19,8 +19,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -31,13 +31,13 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+<span><b><center>Ruby</center></b></span> 
+<img height=65px src="https://icons8.com/icon/22189/ruby-programming-language"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+<img height=65px src="https://icons8.com/icon/20906/git"> 
 </td>
 
 <td align="center" width="20%">
@@ -49,36 +49,36 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
+<img height=65px src="https://icons8.com/icon/8gWOBXY72Osj/bash"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>C</center></b></span> 
-<img height=65px src="https://isocpp.org/assets/images/c_logo.png"> 
+<img height=65px src="https://icons8.com/icon/40670/c-programming"> 
 </td>
 
 
 
 <td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
+<span><b><center>Ubuntu</center></b></span> 
+<img height=65px src="https://icons8.com/icon/63208/ubuntu"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+<span><b><center>HTML</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>CSS</center></b></span> 
+<img height=65px src="https://icons8.com/icon/7gdY5qNXaKC0/css3"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
 </tr>
 
