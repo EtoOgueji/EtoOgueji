@@ -54,7 +54,7 @@
 
 <td align="center" width="20%">
 <span><b><center>C</center></b></span> 
-<img height=65px src="https://icons8.com/icon/40670/c-programming"> 
+<img height=65px src="https://icons8.com/icon/40670/c-programming-48.png"> 
 </td>
 
 
