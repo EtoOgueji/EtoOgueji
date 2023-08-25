@@ -32,7 +32,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Ruby</center></b></span> 
-<img height=65px src="https://icons8.com/icon/22189/ruby-programming-language"> 
+<img height=65px src="https://icons8.com/icon/22189/ruby-programming-language.png"> 
 </td>
 
 <td align="center" width="20%">
