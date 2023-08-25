@@ -1,4 +1,4 @@
-
+![image](https://github.com/EtoOgueji/EtoOgueji/assets/113706147/e8cc64e9-5505-4883-ac56-b5998cd1b864)![image](https://github.com/EtoOgueji/EtoOgueji/assets/113706147/9a98dd70-e99a-48e9-a4d4-41c869e1bd4a)
 <h2 align="center"> Hi, I'm Etomchukwu Oguejiofor 👋 <br/> </h2> 
 
 <p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
@@ -54,7 +54,7 @@
 
 <td align="center" width="20%">
 <span><b><center>C</center></b></span> 
-<img height=65px src="https://icons8.com/icon/40670/c-programming-48.png"> 
+<img height=65px src="https://icons8.com/icon/40670/c-programming.png"> 
 </td>
 
 
