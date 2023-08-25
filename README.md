@@ -53,8 +53,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>C++</center></b></span> 
-<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+<span><b><center>C</center></b></span> 
+<img height=65px src="https://isocpp.org/assets/images/c_logo.png"> 
 </td>
 
 
